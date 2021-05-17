@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eldaghshy
 - 👀 I’m interested in data science and bioinformatics
 - 🌱 I’m currently learning R programming and python
-- 💞️ I’m looking to collaborate on I am still figuring out.
+- 💞️ I’m looking to collaborate on bioinformatic projects but when I have better skillset to be capable of doing that.
 - 📫 How to reach me Eldaghshy@gmail.com
 
 <!---
